@@ -1,0 +1,4 @@
+ 1205  npx eas build
+ 1206  wget https://expo.dev/artifacts/eas/rj1wjLFNduDgyZkWkZ6bLw.ipa
+ 1212  vi ios/webviewwebrtc/Info.plist
+ 1214  eas build
